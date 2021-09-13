@@ -1,0 +1,6 @@
+body{
+    background: #4e54c8;  
+    background: -webkit-linear-gradient(to bottom, #8f94fb, #4e54c8); 
+    background: linear-gradient(to bottom, #8f94fb, #4e54c8);
+    height: 10vh; 
+}
